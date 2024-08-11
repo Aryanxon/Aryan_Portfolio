@@ -14,7 +14,7 @@ function Skills() {
             <div >
                 <p className='text-4xl font-bold text-center border-b-4 border-pink-600'>TechStack</p>
             </div>
-            <div className='w-full grid grid-cols-2 sm:grid-cols-4 gap-6 text-center py-8'>
+            <div className='w-full grid grid-cols-2 md:grid-cols-4 gap-6 text-center py-8'>
                 <SkillsCard images={react} text='React js'/>
                 <SkillsCard images={tailwind} text='Tailwind css'/>
                 <SkillsCard images={javascript} text='Javascript'/>
