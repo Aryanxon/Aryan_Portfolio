@@ -6,8 +6,8 @@ import { Link } from "react-scroll";
 
 function Footer() {
   return (
-    <div className='bg-[#0a192f] mx-auto p-4 w-full flex flex-col justify-center'>
-        <div className='flex justify-center text-4xl text-white font-bold mb-12'>Aryan Bandooni</div>
+    <div className='bg-[#0a192f] md:mx-auto p-4 w-full flex flex-col justify-center'>
+        <div className='flex justify-center text-4xl text-white font-bold'>Aryan Bandooni</div>
       <div className='md:flex px-10 grid sm:grid-cols-2 md:grid-cols-3'>
         <div className='md:w-[30%] px-10 md:border-r-2 border-purple-700'>
             <h1 className='text-4xl text-pink-700 font-bold mb-10'>Contact</h1>
@@ -28,7 +28,7 @@ function Footer() {
         </div>
         <div className='md:w-[30%] px-10'>
         <h1 className='text-4xl text-slate-700 font-bold mb-10'>Skills</h1>
-        <ul className='px-6 grid grid-cols-2'>
+        <ul className='px-6 grid xl:grid-cols-2'>
             <li className='text-white text-xl mb-4'>React Js</li>
             <li className='text-white text-xl mb-4'>Javascript</li>
             <li className='text-white text-xl mb-4'>Tailwindcss</li>
