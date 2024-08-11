@@ -21,7 +21,7 @@ function Skills() {
                 <SkillsCard images={bootstrap} text='Bootstrap'/>
                 <SkillsCard images={HTML} text='HTML'/>
                 <SkillsCard images={css} text='CSS'/>
-                
+            
             </div>
         </div>
 
