@@ -6,7 +6,7 @@ import { Link } from "react-scroll";
 
 function Footer() {
   return (
-    <div className='bg-[#0a192f] mx-auto p-4 w-full flex flex-col justify-center'>
+    <div className='bg-[#0a192f] mx-auto p-4 w-full h-screen flex flex-col justify-center'>
         <div className='flex justify-center text-4xl text-white font-bold mb-12'>Aryan Bandooni</div>
       <div className='md:flex px-10 grid sm:grid-cols-2 md:grid-cols-3'>
         <div className='md:w-[30%] px-10 md:border-r-2 border-purple-700'>
