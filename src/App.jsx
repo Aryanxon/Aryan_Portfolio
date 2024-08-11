@@ -10,7 +10,7 @@ import React from "react"
 function App() {
 
   return (
-    <div className="w-full h-full">
+    <div className="bg-[#0a192f]">
     <Navbar/>
     <Herosection/>
     <About/>
