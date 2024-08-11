@@ -8,7 +8,7 @@ import Todo from '../assets/Todo_List.png'
 function Project() {
   return (
     <div name='projects' className='bg-[#0a192f] text-gray-300 w-full'>
-        <div className='mx-auto p-4 flex flex-col justify-center w-full h-full'>
+        <div className='mx-auto p-4 flex flex-col justify-center w-full h-screen'>
         <div>
             <p className='text-4xl font-bold text-center border-b-4 border-pink-600'>Projects</p>
         </div>
