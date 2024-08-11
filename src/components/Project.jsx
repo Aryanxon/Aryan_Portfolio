@@ -3,7 +3,7 @@ import ProjectCard from './ProjectCard'
 import Project_management from '../assets/Project-management.png'
 import Travel from '../assets/Travel web.png'
 import Todo from '../assets/Todo_List.png'
-// import { Link } from "react-scroll";
+
 
 function Project() {
   return (
